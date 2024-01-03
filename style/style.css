@@ -1,5 +1,9 @@
+body{
+    background-image: url('../picture/souov/Screenshot_20231224-004357.jpg');
+    background-size: cover;
+}
 div{
-    background-color: tomato;
+    /* background-color: tomato; */
     border:10px solid green;
     margin:10px 12px 20px;
     padding:20px;
@@ -9,4 +13,6 @@ div{
     color:black;
     font-weight: bold;
     border-radius: 20px;
+    box-shadow: 10px 10px 10px white ;
+  
 }
